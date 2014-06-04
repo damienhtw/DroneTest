@@ -1,0 +1,23 @@
+{
+  "name": "DroneTest",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damienhtw/DroneTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damienhtw/DroneTest/issues"
+  },
+  "homepage": "https://github.com/damienhtw/DroneTest",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}
