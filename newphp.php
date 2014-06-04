@@ -1,1 +1,1 @@
-<?php>exit(fail);<?>
+<?php>exit(1);<?>
