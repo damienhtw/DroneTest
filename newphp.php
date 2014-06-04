@@ -1,1 +1,1 @@
-<?php>echo "Hello Wrold!";<?>
+<?php>exit(0);<?>
