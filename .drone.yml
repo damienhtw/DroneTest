@@ -1,4 +1,4 @@
-image: mischief/docker-golang
+image: go1.2
 script:
   - npm -d install
   - npm test
