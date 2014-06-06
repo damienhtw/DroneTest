@@ -1,0 +1,10 @@
+image: mischief/docker-golang
+script:
+  - npm -d install
+  - npm test
+services:
+  - redis
+notify:
+  email:
+    recipients:
+      - damien@teamwork.com
