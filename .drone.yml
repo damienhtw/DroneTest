@@ -1,4 +1,4 @@
 image : node0.11
 script:
-  - npm -d install
-  - npm test
+  -npm -d install
+  -npm test
