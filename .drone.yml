@@ -2,7 +2,4 @@ image : node0.10
 script:
   -npm -d install
   -npm test
-notify:
-  email:
-    recipients:
-      - damien@teamwork.com
+
