@@ -1,1 +1,4 @@
-cd app
+image : node0.1
+script:
+  -npm -d install
+  -npm test
