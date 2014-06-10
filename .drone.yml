@@ -1,4 +1,4 @@
 image : node0.11
 script:
-  -cd app
+  -npm test
 
