@@ -1,4 +1,4 @@
-image : node0.11
-script:
+image: go1.2
+script : 
   -cd app
-
+  
