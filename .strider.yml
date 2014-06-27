@@ -1,5 +1,4 @@
-#image: go1.2
-#script : 
-#  -cd app
-    
+image: go1.2
+script : 
+ -cd ..
 
